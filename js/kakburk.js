@@ -20,7 +20,7 @@
 
       var kakburk = '<div class="kakburk ' + _kakan.handle + '"><div class="kakburk__inner"> <p>'+ _kakan.description + readmore + '</p> <button class="kakburk__close" id="kakburk_close">' + _kakan.button + '</button> </div> </div>';
 
-      if ( 'set' !== $.cookie( 'kakburk-pop' ) ) {
+      if ('set' !== $.cookie('kakburk-pop')) {
 
         $('body').prepend(kakburk);
 
