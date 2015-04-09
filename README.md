@@ -1,11 +1,11 @@
-# plugin-boilerplate
+# Kakburk
 
-> Text about the plugin
+> Simple WordPress plugin for cookie law bars
 
 ## Install
 
 ```sh
-$ composer require johnie/plugin-boilerplate
+$ composer require johnie/kakburk
 ```
 
 ## Usage
